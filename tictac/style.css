@@ -12,7 +12,7 @@
 }
 
 body{
-    background-color: #252A34;
+    background-color: #4e1088;
     margin: 0;
     padding: 0;
     width: 100vw;
@@ -37,7 +37,7 @@ body{
 }
 
 .turn-container .turn-box{
-    border: 3px solid #000;
+    border: 3px solid #b00505;
     font-size: 1.6rem;
     font-weight: 700;
 }
@@ -63,14 +63,14 @@ body{
     height: 250px;
     width: 250px;
     margin: 30px auto;
-    border: 2px solid #000;
+    border: 2px solid #074679;
 }
 
 .box{
     cursor: pointer;
     font-size: 2rem;
     font-weight: 700;
-    border: 2px solid #e01c1c;
+    border: 2px solid #730505;
 }
 
 .box:hover{
